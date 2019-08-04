@@ -9,7 +9,7 @@ It's tested on PC, but not as well-tested as the Pi. On the Pi it's tested on Ra
 
 To install the OS, run the following command:
 
-curl https://tomaaien.nl/rasptopos/install | bash
+curl https://tomaaien.nl/rasptopos-testing/install | bash
 
 **NOTE: The script must be run as root.**
 
@@ -17,7 +17,7 @@ curl https://tomaaien.nl/rasptopos/install | bash
 
 To uninstall the OS, run the following command:
 
-curl https://tomaaien.nl/rasptopos/uninstall | bash
+curl https://tomaaien.nl/rasptopos-testing/uninstall | bash
 
 **NOTE: The script must be run as root.**
 
