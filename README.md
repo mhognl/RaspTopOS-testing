@@ -3,8 +3,6 @@
 
 RaspTop OS is a OS for Raspberry Pi and PC. It's focused and well-tested on the Raspberry Pi.
 
-It's tested on PC, but not as well-tested as the Pi. On the Pi it's tested on Raspbian Stretch (Lite). In the future there's a image you can flash for the Pi.
-
 ## Installing
 
 To install the OS, run the following command:
