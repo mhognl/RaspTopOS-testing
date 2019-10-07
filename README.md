@@ -9,15 +9,7 @@ It's tested on PC, but not as well-tested as the Pi. On the Pi it's tested on Ra
 
 To install the OS, run the following command:
 
-curl https://tomaaien.nl/rasptopos-testing/install | bash
-
-**NOTE: The script must be run as root.**
-
-## Uninstalling
-
-To uninstall the OS, run the following command:
-
-curl https://tomaaien.nl/rasptopos-testing/uninstall | bash
+wget https://github.com/mhognl/RaspTopOS-testing/raw/install/installer -O /tmp/installer && bash /tmp/installer && rm /tmp/installer
 
 **NOTE: The script must be run as root.**
 
